@@ -1,0 +1,3 @@
+look at python sum() function
+
+create a utils library and import as needed i.e. isprime()
